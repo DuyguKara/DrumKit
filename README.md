@@ -5,4 +5,4 @@ In this project, I try to learn some javascript concepts. I learned the object s
 
 When you click or press the relevant key on the keyboard, you can hear the sound of the drum.
 
-If you look at my page please click this link ---> 
+If you look at my page please click this link ---> https://duygukara.github.io/DrumKit/
